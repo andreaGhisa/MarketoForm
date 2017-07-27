@@ -1,0 +1,11 @@
+<svg viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-18">
+            <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" opacity="0"></rect>
+            <g id="Group-17" transform="translate(15.000000, 22.000000)" fill="#43AE5A">
+                <polygon id="Fill-1" points="0 41.0674553 0 93.0754553 13.5605639 93.0754553 13.5605639 105.131455 24.9834586 93.0754553 81.367782 93.0754553 81.367782 41.0674553"></polygon>
+                <polygon id="Fill-2" points="38.4859624 0.631895329 38.4859624 36.1970953 85.4047218 36.1970953 85.4047218 52.6398953 94.8746842 52.6398953 106.297579 64.6958953 106.297579 52.6398953 119.853744 52.6398953 119.853744 0.631895329"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
