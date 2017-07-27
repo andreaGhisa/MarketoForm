@@ -46,9 +46,10 @@
         <script src="http://www.sdl.com/static/tp/trial/js/master.js"></script>
         <script src="https://app-e.marketo.com/js/forms2/js/forms2.min.js"></script>
         <script>MktoForms2.loadForm("//app-e.marketo.com", "689-LLU-525", 2318,function(form){
-form.onSuccess(){
-    window.external.ShowMessage();
-}
+  form.onSuccess(function(e) {
+        
+          window.external.ShowMessage();
+    });
         });
 
         </script>
